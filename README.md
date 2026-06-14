@@ -2,35 +2,32 @@
 
 Hello, I'm George Kimani! 👋 Currently a Full-Stack Developer and CS student at Zetech University, Nairobi, building tools for environments where performance, security, and reliability aren't optional.
 
----
-
-### Tech Stack
+<br/>
 
 <table>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="40"/><br/>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="40"/><br/>Python</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="40"/><br/>Java</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="40"/><br/>C</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br/>C++</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cs" width="40"/><br/>C#</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="40"/><br/>HTML5</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="40"/><br/>CSS3</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="60"/><br/>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="60"/><br/>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="60"/><br/>Java</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/>Tailwind</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="40"/><br/>Firebase</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/>MySQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="40"/><br/>Git</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="40"/><br/>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="60"/><br/>C</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="60"/><br/>C++</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="60"/><br/>HTML5</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=netlify" width="40"/><br/>Netlify</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="40"/><br/>Linux</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="40"/><br/>Postman</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=npm" width="40"/><br/>npm</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="60"/><br/>CSS3</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="60"/><br/>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="60"/><br/>Node.js</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="60"/><br/>Express</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="60"/><br/>Tailwind</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="60"/><br/>Firebase</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="60"/><br/>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="60"/><br/>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="60"/><br/>Linux</td>
   </tr>
 </table>
