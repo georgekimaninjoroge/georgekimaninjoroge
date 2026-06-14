@@ -20,11 +20,22 @@ Hello, I'm George Kimani! 👋 Currently a Full-Stack Developer and CS student a
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>Node.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=express" width="48"/><br/>Express</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>Tailwind</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br/>Bootstrap</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=svelte" width="48"/><br/>Svelte</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="48"/><br/>Firebase</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="48"/><br/>Supabase</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pandas" width="48"/><br/>Pandas</td>
+  </tr>
+  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br/>Git</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br/>GitHub</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br/>Linux</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br/>Postman</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=netlify" width="48"/><br/>Netlify</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=npm" width="48"/><br/>npm</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/>VS Code</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="48"/><br/>Figma</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>Docker</td>
   </tr>
 </table>
