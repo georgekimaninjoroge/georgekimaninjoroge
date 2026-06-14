@@ -4,6 +4,7 @@ Hello, I'm George Kimani! 👋 Software developer based in Nairobi. I believe th
 
 <br/>
 
+<div align="center">
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48"/><br/>JavaScript</td>
@@ -30,3 +31,4 @@ Hello, I'm George Kimani! 👋 Software developer based in Nairobi. I believe th
     <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br/>Postman</td>
   </tr>
 </table>
+</div>
