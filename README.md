@@ -1,6 +1,6 @@
 "Syntax is just the friction of the pen; code is the freedom of the mind."
 
-Software developer based in Nairobi. 
+Software Engineer based in Nairobi. 
 I believe there's always a better way to build things; leaner, faster, and more honest about the constraints people actually face.
 
 <br/>
